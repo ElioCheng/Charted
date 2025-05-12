@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624432820544",
+    "project_id": "songchart-cee16",
+    "storage_bucket": "songchart-cee16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624432820544:android:b87c2dc643d92e45decaa5",
+        "android_client_info": {
+          "package_name": "net.codebot.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJrfQOe9M-_S7n8BXfJ6Y8dcTjj25Sz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
