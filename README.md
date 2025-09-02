@@ -6,7 +6,7 @@ Hey you! Are you tired of seeing so many "best song ever" titles when you know t
 Introducing Charted: The definitive way to rank music! Simply open the app, pick your favourite song from the selection, and let our systems construct your ranking. Additionally, view the world's favourite songs in a collective global ranking and see your friends' top songs as well.
 
 ## Product Demo
-[Product Demo](https://git.uwaterloo.ca/s56grewa/team-102-16/-/wikis/Product-Demo)
+[Product Demo](docs/ProductDemo.md)
 
 ## Team members:
 
