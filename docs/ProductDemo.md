@@ -1,4 +1,4 @@
-![Screenshot_2024-12-03_at_6.23.50_PM](uploads/cc0c1ed1f001bd5767aa80d68ec59901/Screenshot_2024-12-03_at_6.23.50_PM.png){ width=50% }  
+![Screenshot_2024-12-03_at_6.23.50_PM](Charted/images/login.png){ width=50% }  
 Login Page: create a new account or log in to existing account  
 
 ---
