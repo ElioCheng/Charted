@@ -1,15 +1,14 @@
----
-
-![Login Page](/images/login_page.png) 
-Login Page: create a new account or log in to existing account  
 
 ---
 
+![Login Page](/images/login_page.png){ width=50% }  
+Login Page: create a new account or log in to existing account
+
+---
 ![Profile Page](/images/ranking_page.png){ width=50% }  
 Profile Page: shows user's top 10 songs
 
 ---
-
 ![Head to Head](/images/head_to_head_page.png){ width=50% }  
 Head to Head Page: choose which song you prefer out of the two choices
 
