@@ -1,5 +1,6 @@
 ---
-![Login Page](/images/login_page.png){ width=50% }  
+
+![Login Page](/images/login_page.png) 
 Login Page: create a new account or log in to existing account  
 
 ---
