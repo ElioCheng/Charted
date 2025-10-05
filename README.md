@@ -16,7 +16,7 @@ Alex Choe -- achoe@uwaterloo.ca
 Zixuan Cheng -- z24cheng@uwaterloo.ca   
 
 ## Team Contract
-[Team Contract](https://git.uwaterloo.ca/s56grewa/team-102-16/-/wikis/Team-Contract)
+[Team Contract](docs/TeamContract.md)
 
 ## Project Proposal
 [Project Proposal](https://git.uwaterloo.ca/s56grewa/team-102-16/-/wikis/Project-Proposal)
