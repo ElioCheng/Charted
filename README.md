@@ -19,7 +19,7 @@ Zixuan Cheng -- z24cheng@uwaterloo.ca
 [Team Contract](docs/TeamContract.md)
 
 ## Project Proposal
-[Project Proposal](https://git.uwaterloo.ca/s56grewa/team-102-16/-/wikis/Project-Proposal)
+[Project Proposal](docs/ProjectProposal.md)
 
 ## Design Proposal
 [Design Proposal](https://git.uwaterloo.ca/s56grewa/team-102-16/-/wikis/Design-Proposal)
